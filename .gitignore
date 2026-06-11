@@ -1,0 +1,45 @@
+# ===========================
+# Node.js
+# ===========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# ===========================
+# Database
+# ===========================
+*.sqlite
+*.sqlite3
+*.db
+
+# ===========================
+# Frontend build output
+# ===========================
+Car_Rental_System-main/frontend/dist/
+Car_Rental_System-main/frontend/.vite/
+
+# ===========================
+# C++ compiled binaries
+# ===========================
+*.exe
+*.o
+*.out
+
+# ===========================
+# Environment variables
+# ===========================
+.env
+.env.local
+.env.*.local
+
+# ===========================
+# OS / Editor junk
+# ===========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo

@@ -1,0 +1,12 @@
+Id,Model,Condition,Due_date,Rental_Price,Status,Rented_By
+1,Swift,Good,NA,1000,Deleted
+2,Hyundai,Good,5678-10-10,1200,In_Use,Ftyhu
+3,Creta,Good,2024-03-04,2000,In_Use,Shri
+4,Punch,Good,NA,900,Deleted
+5,BMW,Good,2024-03-02,10000,In_Use,abw
+6,Duster,Good,NA,5000,In_Use
+7,Jaguar,Good,NA,15000,In_Use
+8,Desire,Good,NA,5000,Deleted
+9,Fortuner,Good,NA,15000,In_Use
+10,Scorpio,Good,NA,1000,In_Use
+11,Swift,Good,NA,1500,In_Use
